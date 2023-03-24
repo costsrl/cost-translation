@@ -1,0 +1,8 @@
+<?php
+return array(
+      "languageEnabled"=>[
+          "it_IT" => "<span class=\"flag-icon flag-icon-it\">IT</span>",
+          "en_EN" => "<span class=\"flag-icon flag-icon-gb\">EN</span>",
+          "de_DE" => "<span class=\"flag-icon flag-icon-de\">DE</span>"
+      ]
+);
